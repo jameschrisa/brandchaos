@@ -1,0 +1,5 @@
+# Considered Chaos — a study guide to the published work of Eugene Healey.
+User-agent: *
+Allow: /
+
+Sitemap: https://USERNAME.github.io/considered-chaos/sitemap.xml

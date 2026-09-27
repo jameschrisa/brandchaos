@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Considered Chaos">
+  <title>Considered Chaos</title>
+  <rect width="64" height="64" rx="9" fill="#12131A"/>
+  <g>
+    <rect x="8"  y="8"  width="21" height="21" rx="2.5" fill="#00C27A"/>
+    <rect x="33" y="8"  width="23" height="11" rx="2.5" fill="#FF3D6E"/>
+    <rect x="33" y="23" width="10" height="20" rx="2.5" fill="#F5C518"/>
+    <rect x="47" y="23" width="9"  height="9"  rx="2.5" fill="#6C4DF6"/>
+    <rect x="8"  y="33" width="21" height="10" rx="2.5" fill="#6C4DF6"/>
+    <rect x="47" y="36" width="9"  height="20" rx="2.5" fill="#00C27A"/>
+    <rect x="8"  y="47" width="31" height="9"  rx="2.5" fill="#FF3D6E"/>
+  </g>
+</svg>
